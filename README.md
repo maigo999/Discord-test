@@ -1,1 +1,3 @@
 # Discord-test
+
+これはDISCORDでテストするためのリポジトリです
